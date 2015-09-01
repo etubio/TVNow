@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TV Now</string>
+    <string name="main_msg">Seleccione el canal que está viendo: </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_to">Agregar canales</string>
+    <string name="title_activity_concrete_channel">ConcreteChannelActivity</string>
+</resources>
